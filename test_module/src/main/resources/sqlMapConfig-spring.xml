@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+
+<!--    &lt;!&ndash;    自定义别名&ndash;&gt;-->
+<!--    <typeAliases>-->
+<!--        <typeAlias type="com.study.domain.Account" alias="account"></typeAlias>-->
+<!--&lt;!&ndash;        方法二：扫包 别名为实体的首字母小写&ndash;&gt;-->
+<!--&lt;!&ndash;        <package name="com.study.domain"/>&ndash;&gt;-->
+<!--    </typeAliases>-->
+
+<!--    &lt;!&ndash;    注解 加载映射关系&ndash;&gt;-->
+<!--    <mappers>-->
+<!--        &lt;!&ndash;        指定接口所在的包&ndash;&gt;-->
+<!--        <package name="com.study.mapper"/>-->
+<!--    </mappers>-->
+
+
+</configuration>
